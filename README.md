@@ -2,7 +2,7 @@
 
 This is a readme file that contains details of the various files used for the purposes of the dissertation namely
 
-the final jupyter notebook files uploaded
+the final jupyter notebook files uploaded here : https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/Capstone_Project_JP_Morgan_Chase_Dataset.ipynb & https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/Final_Complete_Capstone_Project_Optimized.ipynb
 
 The presentation is a file : https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/Capstone_Presentation_Final.pptx :
 
