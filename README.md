@@ -6,7 +6,9 @@ the final jupyter notebook files uploaded
 
 The presentation is a file calledCapstone_Presentation_Final.pptx. : This file gives the details regarding the work done in a nutshell.
 
-PoweorBI workbook: this is the powerbI workbook created expalining the dataset and findings
+PoweorBI workbook: this is the powerbI workbook created expalining the dataset and findings- This is separately submitted with the remaining file in the submission- too large for github
+
+PowerBI_Slides_Capstone: This is the slide explaining the powerbi workbook
 
 the streamlit application 
 Screenshot- what to use
