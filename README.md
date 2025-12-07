@@ -8,7 +8,7 @@ The presentation is a file : https://github.com/raghavanvishnu/Assignment_Main_b
 
 This file gives the details regarding the work done in a nutshell.
 
-PoweorBI workbook: this is the powerbI workbook created expalining the dataset and findings- This is separately submitted with the remaining file in the submission- too large for github
+PoweorBI workbook: this is the powerbI workbook created expalining the dataset and findings- Url for the same is here : https://drive.google.com/file/d/17I4JvBhYs2BSi9sJeQwZIjd1ul_oMuxa/view?usp=drive_link
 
 PowerBI_Slides_Capstone: https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/PowerBI_Slides_Capstone.pptx
 
@@ -16,7 +16,7 @@ This is the slide explaining the powerbi workbook
 
 the streamlit application : Folder for the same : https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/Capstone_Deployment.zip
 
-How to use the streamlit application - Credits-Yogeshwarachary
+How to use the streamlit application 
 1. Download the zip file and extract the zip file in easy accessible folder.
 2. Open Visual Studio Code
 3. Open the Folder where you have extracted the Zip file (Complete Folder name needs to be added here)
@@ -30,5 +30,9 @@ How to use the streamlit application - Credits-Yogeshwarachary
 Note: Make sure you have Python installed in your Visual Studio Code.
 
 
-Sample Dataset
+Dataset Used:  https://drive.google.com/drive/u/0/folders/1F7Du5Ey0ab9xprD0w_f8-yAbXt_sB8OP (stored extrenally owing to size)
+
+
+
+
 
