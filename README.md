@@ -10,7 +10,7 @@ PoweorBI workbook: this is the powerbI workbook created expalining the dataset a
 
 PowerBI_Slides_Capstone: This is the slide explaining the powerbi workbook
 
-the streamlit application : Folder for the same
+the streamlit application : Folder for the same : https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/Capstone_Deployment.zip
 
 Screenshot- How to use the streamlit application
 
