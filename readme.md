@@ -8,7 +8,7 @@ The presentation is a file : https://github.com/raghavanvishnu/Assignment_Main_b
 
 This file gives the details regarding the work done in a nutshell.
 
-PoweorBI workbook: this is the powerbI workbook created expalining the dataset and findings- Url for the same is here : https://drive.google.com/file/d/17I4JvBhYs2BSi9sJeQwZIjd1ul_oMuxa/view?usp=drive_link . Stored externally due to file size
+PowerBI workbook: this is the powerbI workbook created expalining the dataset and findings- Url for the same is here : https://drive.google.com/file/d/17I4JvBhYs2BSi9sJeQwZIjd1ul_oMuxa/view?usp=drive_link . Stored externally due to file size
 
 PowerBI_Slides_Capstone: https://github.com/raghavanvishnu/Assignment_Main_branch_Dissertation_Capstone/blob/main/PowerBI_Slides_Capstone.pptx
 
